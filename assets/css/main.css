@@ -192,7 +192,7 @@ hr {
 }
 
 header a {
-    color: var(--font-color);
+    color: var(--link-color);
 }
 
 header h1 {
@@ -350,7 +350,7 @@ article header h1 {
 }
 
 article header h1 a {
-    color: var(--font-color);
+    color: var(--link-color);
     border: none;
     text-decoration: none;
 }
